@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/kc7mh8a4cou349wmgr293xxp)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Pad for numbers and sutfffffsutfffffsutfffffsutfffffsutfffffsutfffffsutfffffsutfffffsutfffffsutfffffsutfffff
+> Behold!! It is a numerical keypad that one may utilize to transcribe numerals. This splendiferous device will ensure that you can type as many numbers as your heart desires. Tap. Tap. Tap. Tap.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
